@@ -1,6 +1,6 @@
 # Send Ether to Different Wallet Using ether.js
 
-Boat is India's fashionable Consumer Electronics that allows user shop the products based on categories.This is e-commerce website in audio
+Live Demo:
 
 ## Tech Stacks Used:
 
@@ -15,7 +15,7 @@ Boat is India's fashionable Consumer Electronics that allows user shop the produ
 
 ### Landing Page
 
-<img width="917" alt="Screenshot (635)" src="https://ibb.co/nr2v8pY">
+<img width="917" alt="Screenshot (635)" src="https://i.ibb.co/hs5j104/Screenshot-from-2022-01-05-12-30-26.png">
 
 
 👤 **HR Shrayank**
