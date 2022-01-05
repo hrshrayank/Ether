@@ -15,7 +15,7 @@ Live Demo:
 
 ### Landing Page
 
-<img width="917" alt="Screenshot (635)" src="https://i.ibb.co/hs5j104/Screenshot-from-2022-01-05-12-30-26.png">
+<img width="917" alt="Screenshot (635)" src="https://i.ibb.co/8zdXnmk/Screenshot-from-2022-01-05-19-12-19.png">
 
 
 👤 **HR Shrayank**
