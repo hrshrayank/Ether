@@ -1,7 +1,5 @@
 # Send Ether to Different Wallet Using ether.js
 
-Live Demo:
-
 ## Tech Stacks Used:
 
 - **React**
